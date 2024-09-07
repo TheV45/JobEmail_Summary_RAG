@@ -1,3 +1,7 @@
 venv/
 credentials.json
-.env
+*.env
+token.pickle
+emails/
+.vscode
+__pycache__/
