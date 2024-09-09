@@ -104,3 +104,4 @@ webencodings==0.5.1
 wheel==0.43.0
 yarl==1.9.4
 zipp==3.19.2
+twilio==9.3.0
